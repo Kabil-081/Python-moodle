@@ -1,5 +1,5 @@
 Christmas Discount
-
+ 
 An e-commerce company plans to give their customers a special discount for Christmas.
 
 They are planning to offer a flat discount. The discount value is calculated as the sum of all the prime digits in the total bill amount.
