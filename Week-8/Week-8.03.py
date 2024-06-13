@@ -1,5 +1,5 @@
 DNA Sequence
-
+ 
 The DNA sequence is composed of a series of nucleotides abbreviated as 'A', 'C', 'G', and 'T'.
 
 For example, "ACGAATTCCG" is a DNA sequence.
