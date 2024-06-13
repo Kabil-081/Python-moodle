@@ -1,5 +1,6 @@
 Second last digit
 
+
 Write a program that returns the second last digit of the given number. Second last digit is being referred 10the digit in the tens place in the given number.
 
 For example, if the given number is 197, the second last digit is 9.
