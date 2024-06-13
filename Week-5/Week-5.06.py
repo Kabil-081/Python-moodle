@@ -1,5 +1,5 @@
 Find the Factor
-
+ 
 Determine the factors of a number (i.e., all positive integer values that evenly divide into a number) and then return the pth element of the list, sorted ascending. If there is no pth element, return 0.
 
 Constraints
