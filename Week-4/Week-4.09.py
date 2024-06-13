@@ -1,4 +1,4 @@
-Product of single digit
+bProduct of single digit
 
 Given a positive integer N, check whether it can be represented as a product of single digit numbers.
 
